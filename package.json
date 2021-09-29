@@ -1,6 +1,7 @@
 {
     "name": "kimbie-dark-browner",
     "displayName": "Kimbie Dark Browner",
+    "publisher": "fabioosti",
     "description": "",
     "version": "0.0.1",
     "engines": {
@@ -14,7 +15,7 @@
             {
                 "label": "Kimbie Dark Browner",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Kimbie Dark Browner-color-theme.json"
+                "path": "./themes/KimbieDarkBrowner.json"
             }
         ]
     }
